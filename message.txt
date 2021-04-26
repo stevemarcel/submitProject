@@ -1,1 +1,1 @@
-message=an+input+box+is+here+where+user+submits+their+message 
+message=message+box+shows+where+user+submits+their+message 
